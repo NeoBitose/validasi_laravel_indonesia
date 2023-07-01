@@ -13,10 +13,10 @@ return [
     |
     */
 
-    'reset' => 'Password anda telah direset!',
+    'reset' => 'Password anda telah direset.',
     'sent' => 'Kami sudah mengirimkan email verifikasi kepada anda!',
     'throttled' => 'Mohon tunggu sebelum mencoba lagi.',
-    'token' => 'Token password ini tidak valid.',
+    'token' => 'Token reset password ini tidak valid.',
     'user' => "Kami tidak dapat menemukan pengguna dengan email tersebut.",
 
 ];

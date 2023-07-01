@@ -15,6 +15,6 @@ return [
 
     'failed' => 'Data pengguna tidak cocok.',
     'password' => 'Password salah',
-    'throttle' => 'Login gagal. Coba lagi nanti.',
+    'throttle' => 'Login gagal. Coba lagi dalam :seconds detik.',
 
 ];
